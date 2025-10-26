@@ -1,5 +1,5 @@
-<img src="https://github.com/user-attachments/assets/80c36de8-74e9-4210-8cc4-8dd7d5c5ed0b" width="200" height="200" align="right" />
- 
+<img src="https://github.com/user-attachments/assets/316a70d5-2674-4407-92fe-b8e44ddfac9c" width="200" height="200" align="right" />
+
 # Improvado Marketing Analytics Dashboard Homework
 [Looker Studio Improvado Dashboard Homework](https://lookerstudio.google.com/reporting/d2de74be-fada-46f7-b32b-85b8cfc8afdb)
 
