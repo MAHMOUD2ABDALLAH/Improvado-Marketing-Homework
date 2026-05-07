@@ -1,9 +1,8 @@
-<img src="https://github.com/user-attachments/assets/316a70d5-2674-4407-92fe-b8e44ddfac9c" width="200" height="200" align="right" />
-
 # Improvado Marketing Analytics Dashboard Homework
 [Looker Studio Improvado Dashboard Homework](https://lookerstudio.google.com/reporting/d2de74be-fada-46f7-b32b-85b8cfc8afdb)
 
-<img width="1000" height="800" alt="Improvado Dashboard" src="https://github.com/user-attachments/assets/1852a314-4687-4f91-86bb-056b2553b518" />
+<img width="1000" height="750" alt="improvado" src="https://github.com/user-attachments/assets/a8619081-83c1-4a7e-9b9a-b9540905bb3c" />
+
 
 ## Homework Overview
 
