@@ -161,6 +161,4 @@ This dashboard enables:
 
 **Mahmoud_abdallah20@outlook.com**
 
----
-
-*This Homework was completed as part of the Junior Analyst position application process for Improvado, demonstrating capabilities in marketing analytics, data visualization, and business intelligence implementation.*
+<img width="200" height="200" alt="Improvado" src="https://github.com/user-attachments/assets/7c601c73-38b4-483c-affa-c6832ec26356" />
