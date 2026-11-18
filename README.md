@@ -1,4 +1,4 @@
-# Improvado Marketing Analytics Dashboard Homework
+# Improvado Marketing Analytics Dashboard
 [Looker Studio Improvado Dashboard Homework](https://lookerstudio.google.com/reporting/d2de74be-fada-46f7-b32b-85b8cfc8afdb)
 
 <img width="1000" height="750" alt="improvado" src="https://github.com/user-attachments/assets/a8619081-83c1-4a7e-9b9a-b9540905bb3c" />
